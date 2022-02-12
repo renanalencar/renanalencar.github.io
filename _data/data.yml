@@ -20,7 +20,7 @@ sidebar:
     telegram: mrcostaalencar # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@mrcostaalencar'
+    twitter: #'@mrcostaalencar'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,15 +29,18 @@ sidebar:
       - idiom: Portuguese
         level: Native
 
+      - idiom: Korean
+        level: Starter
+
       - idiom: English
         level: Proficient
+
+      - idiom: French
+        level: Pre-Intermediate
 
       - idiom: Spanish
         level: Intermediate
       
-      - idiom: French
-        level: Pre-Intermediate
-
     interests:
       - item: Reading
         link:
@@ -51,151 +54,141 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Computer Scientist working as a Full Stack Developer, and having a master's degree in Computer Engineering. 
-      I am also an Assistant Professor at Centro Unviersitário dos Guararapes and ESL Teacher and Cultura Inglesa.
-      You can [download my full CV/Resumé here]().
+      I am Computer Scientist working as a Full Stack Developer, and running a Doctorate in Computer Engineering (Computer Intelligence).
+      I also have a Master's degree in Computer Engineering (Computer Intelligence). You can [download my full CV/Resumé here]().
 education:
     - degree: PhD in Computer Engineering
       university: Universidade de Pernambuco
       time: 2021 - 2025
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Doctorate in Computer Engineering (in progress) working on Computer Intelligence, 
+        Computer Vision, and Machine Learning.
+          - Network Science
+          - Logistics
+          - Diagnosis-Related Groups (DRG)
     - degree: MSc in Computer Engineering
       university: Universidade de Pernambuco
       time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Master's Degree in Computer Engineering working on Computer Intelligence.
+          - Multiple Travel Salesman Problem
+          - Swarm Intelligence
+          - Particle Swarm Optimization (PSO)
+          - Fish School Search (FSS)
     - degree: BSc in Computer Science
       university: Faculdade de Ciências Aplicadas e Sociais de Petrolina
       time: 2014 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Major in Computer Science with projects on Big Data and Data Mining for Education.
+          - Data Mining for Education
+          - Learning Management System (LMS)
     - degree: BSc in Computer Engineering
       university: California State University, Long Beach
       time: 2012 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Non-degree programa for visiting international students in Computer Science/Engineering.
           - Bullet point
           - Bullet point
     - degree: BSc in Computer Engineering
       university: Universidade Federal do Vale do São Francisco
       time: 2010 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Non-finished undergrad degree in Computer Engineering.
+          - Web Developer
+          - Arduino
 experiences:
+    - role: Software Developer (Windows)
+      time: 2021 - Present
+      company: SiDi - Instituto Samsung de Desenvolvimento e Inovação, Recife
+      details: |
+        Full time Software Developer working on developing Windows apps.
+          - C#
+          - Microsoft .Net
+          - Universal Windows Platform (UWP)
+    - role: Softwre Development Analyst
+      time: 2021 - 2021
+      company: Accenture Brasil, Recife
+      details: |
+        Full time Software Developer working on developing Single Page Applications (SPA).
+          - Angular 11
+          - Jasmine
+          - Karma
     - role: Full Stack Developer
       time: 2020 - Present
       company: Ser Educacional, Recife
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Assistant Professor
-      time: 2019 - Present
-      company: Centro Universitário dos Guararapes, Jaboatão dos Guararapes
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: ESL Teacher
-      time: 2014 - Present
-      company: Cultura Inglesa, Recife
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Full time Web Developer working on project management and developing internal websites.
+          - HTML5
+          - CSS3
+          - MySQL
+          - Jhipster
+    # - role: Assistant Professor
+    #   time: 2019 - 2021
+    #   company: Centro Universitário dos Guararapes, Jaboatão dos Guararapes
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
+    # - role: ESL Teacher
+    #   time: 2014 - 2022
+    #   company: Cultura Inglesa, Recife
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here I list some projects that I have been working on using 
+      Computer Vision and Machine Learning.
     assignments:
-      - title: Velocity
+      - title: Involves
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Improving routing algorithms to schedule appointments for promoters to markets."
 
-      - title: DevStudio
+      - title: RAVe
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Vehicle Attribution Recognition from Traffic Camera Images."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      # - title: Tempo
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      # - title: Atom
+      #   link: "#"
+      #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Here I list some of recent papers that I published.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Optimizing Routes for Medicine Distribution Using Team Ant Colony System
+        link: "https://www.researchgate.net/publication/331902766_Optimizing_Routes_for_Medicine_Distribution_Using_Team_Ant_Colony_System"
+        authors: Renan Costa Alencar, Clodomir Santana, Carmelo Bastos-Filho
+        conference: Intelligent Decision Support Systems - A Journey to Smarter Healthcare, 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Using GANs and MLP Artificial Neural Networks to support early diagnosis of Alzheimer's disease: a study on the potential of artificial data expansion"
+        link: "https://www.researchgate.net/publication/355765339_Using_GANs_and_MLP_Artificial_Neural_Networks_to_support_early_diagnosis_of_Alzheimer's_disease_a_study_on_the_potential_of_artificial_data_expansion"
+        authors: Jonathan Bandeira, Mêuser Valença, Renan Costa Alencar
+        conference: "Congresso Brasileiro de Inteligência Computacional, 2021"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Classificação de Gamers por Padrões em suas Expressões Faciais
+        link: "https://www.researchgate.net/publication/355574116_Classificacao_de_Gamers_por_Padroes_em_suas_Expressoes_Faciais"
+        authors: Nicolau Calado Jofilsan, Sidney Lima, Renan Costa Alencar
+        conference: "SBGames, 2021"
 
 skills:
     title: Skills &amp; Proficiency
@@ -207,10 +200,13 @@ skills:
       - name: C/C++
         level: 98%
 
+      - name: C#
+        level: 98%
+
       - name: Javascript
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS3
         level: 95%
 
       - name: Angular
@@ -218,8 +214,17 @@ skills:
       
       - name: Python
         level: 85%
+      
+      - name: Computer Vision
+        level: 80%
 
-      - name: Illustrator & Photoshop
+      - name: Machine Learning
+        level: 80%
+
+      - name: Flutter
+        level: 60%
+
+      - name: Design Patterns
         level: 60%
 
 footer: >
